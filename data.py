@@ -2,7 +2,7 @@
 Author: Muhammad Acqmal Fadhilla Latief 109632348+AcqmalFadhilla@users.noreply.github.com
 Date: 2024-12-13 00:45:14
 LastEditors: Muhammad Acqmal Fadhilla Latief 109632348+AcqmalFadhilla@users.noreply.github.com
-LastEditTime: 2024-12-13 01:30:17
+LastEditTime: 2024-12-13 10:07:18
 FilePath: data.py
 Description: 这是默认设置,可以在设置》工具》File Description中进行配置
 """
@@ -14,6 +14,19 @@ data_status = {
 3:"Divorced",
 4:"Facto union",
 5:"Legally separated"
+}
+
+data_gender = {
+    0 : "Male",
+    1 : "Female"
+}
+data_yes_no = {
+    0 : "No",
+    1 : "Yes"
+}
+data_attendance = {
+    0 : "Evening",
+    1 : "Daytime"
 }
 
 data_application_mode = {1 : "1st phase - general contingent",
