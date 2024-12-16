@@ -1,0 +1,22 @@
+,Group Course,Target,Count
+0,Agriculture and Environment,Target_graduated,87
+1,Business Management,Target_graduated,216
+2,Design and Media,Target_graduated,550
+3,Education,Target_graduated,57
+4,Health and Nursing,Target_graduated,756
+5,Social Sciences and Public Services,Target_graduated,486
+6,Technology and Engineering,Target_graduated,57
+7,Agriculture and Environment,Target_dropout,86
+8,Business Management,Target_dropout,270
+9,Design and Media,Target_dropout,329
+10,Education,Target_dropout,85
+11,Health and Nursing,Target_dropout,241
+12,Social Sciences and Public Services,Target_dropout,232
+13,Technology and Engineering,Target_dropout,178
+14,Agriculture and Environment,Target_enrolled,37
+15,Business Management,Target_enrolled,162
+16,Design and Media,Target_enrolled,161
+17,Education,Target_enrolled,50
+18,Health and Nursing,Target_enrolled,192
+19,Social Sciences and Public Services,Target_enrolled,104
+20,Technology and Engineering,Target_enrolled,88

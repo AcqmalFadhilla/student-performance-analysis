@@ -1,0 +1,7 @@
+,Daytime/evening attendance,Target,Count
+0,evening,Target_graduated,201
+1,daytime,Target_graduated,2008
+2,evening,Target_dropout,207
+3,daytime,Target_dropout,1214
+4,evening,Target_enrolled,75
+5,daytime,Target_enrolled,719

@@ -1,0 +1,10 @@
+,Grade Trend,Target,Count
+0,Decrease,Target_graduated,839
+1,Increase,Target_graduated,931
+2,No Change,Target_graduated,439
+3,Decrease,Target_dropout,515
+4,Increase,Target_dropout,309
+5,No Change,Target_dropout,597
+6,Decrease,Target_enrolled,367
+7,Increase,Target_enrolled,314
+8,No Change,Target_enrolled,113

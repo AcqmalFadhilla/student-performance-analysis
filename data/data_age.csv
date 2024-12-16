@@ -1,0 +1,22 @@
+,Age group,Target,Count
+0,18-24,Graduated,662
+1,25-34,Graduated,1224
+2,35-44,Graduated,183
+3,45-54,Graduated,96
+4,55-64,Graduated,35
+5,65-74,Graduated,6
+6,under 18,Graduated,3
+7,18-24,Dropout,202
+8,25-34,Dropout,635
+9,35-44,Dropout,376
+10,45-54,Dropout,146
+11,55-64,Dropout,55
+12,65-74,Dropout,6
+13,under 18,Dropout,0
+14,18-24,Enrolled,172
+15,25-34,Enrolled,479
+16,35-44,Enrolled,94
+17,45-54,Enrolled,37
+18,55-64,Enrolled,10
+19,65-74,Enrolled,0
+20,under 18,Enrolled,2

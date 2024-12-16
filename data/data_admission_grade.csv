@@ -1,0 +1,10 @@
+,Admission grade group,Target,Count
+0,high,Target_graduated,1988
+1,medium,Target_graduated,48
+2,very high,Target_graduated,170
+3,high,Target_dropout,1249
+4,medium,Target_dropout,86
+5,very high,Target_dropout,83
+6,high,Target_enrolled,733
+7,medium,Target_enrolled,32
+8,very high,Target_enrolled,28
